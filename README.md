@@ -17,6 +17,6 @@ Power is supplied via a 2032 3V button cell. The name comes from the fact that t
 
 ## The PCB
 
-![Aisler](https://aisler.net/p/TQVCAVJF)
+[Aisler](https://aisler.net/p/TQVCAVJF)
 
 
