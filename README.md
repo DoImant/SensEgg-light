@@ -4,6 +4,8 @@ This is a circuit board layout for a weather sensor. A BME280 is used to measure
 
 Power is supplied via a 2032 3V button cell. The name comes from the fact that the circuit board fits into a kinder surprise (egg).
 
+The creator of this PCB is @Spaghetticode from arduinoforum.de. I have only implemented his design in KiCad.
+
 ## More about the Sensegg-Ligth (in german) 
 
 [https://www.arduinoforum.de/arduino-Thread-SensEgg-light-FunkSensor-ATtiny814-nRF24-BME280-NTC](https://www.arduinoforum.de/arduino-Thread-SensEgg-light-FunkSensor-ATtiny814-nRF24-BME280-NTC)
